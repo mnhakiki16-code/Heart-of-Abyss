@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Main_BGM",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":258.76318,
+  "exportDir":"",
+  "name":"Main_BGM",
+  "parent":{
+    "name":"Sound",
+    "path":"folders/Sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Main_BGM.mp3",
+  "volume":1.0,
+}

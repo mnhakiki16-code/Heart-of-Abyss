@@ -7,9 +7,12 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Object",
-    "path":"folders/Object.yy",
+    "path":"folders/Platform_main/Object.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_SolidApplier",
+    "path":"objects/O_SolidApplier/O_SolidApplier.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

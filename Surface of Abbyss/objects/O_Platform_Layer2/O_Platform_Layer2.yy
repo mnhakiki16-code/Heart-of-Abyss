@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"O_Platform_Layer2",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_Platform_Layer2",
   "overriddenProperties":[],
   "parent":{
     "name":"Object",
-    "path":"folders/Object.yy",
+    "path":"folders/Platform_main/Object.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_SolidApplier",
+    "path":"objects/O_SolidApplier/O_SolidApplier.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
