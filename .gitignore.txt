@@ -1,0 +1,10 @@
+# GameMaker Proyek Ignore
+*.bak
+*.old
+*.rs.gml
+*_backup/
+ui.config
+local_settings.json
+/options/main/inherited/
+/cache/
+/export/
