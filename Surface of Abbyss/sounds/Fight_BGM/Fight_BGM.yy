@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"Main_BGM",
+  "%Name":"Fight_BGM",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":3,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":258.76318,
+  "duration":95.039276,
   "exportDir":"",
-  "name":"Main_BGM",
+  "name":"Fight_BGM",
   "parent":{
     "name":"sound",
     "path":"folders/sound.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Main_BGM.mp3",
+  "soundFile":"Fight_BGM.mp3",
   "volume":1.0,
 }

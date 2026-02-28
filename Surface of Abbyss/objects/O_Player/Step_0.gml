@@ -6,6 +6,12 @@ var down	= keyboard_check(ord("S")) || keyboard_check(vk_down) ;
 
 
 if (global.game_mode == "platformer") {
+	
+	if (!audio_is_playing(Main_BGM)) {
+		audio_stop_sound(Fight_BGM);
+		audio_play_sound(Main_BGM, 10, true);	
+	}
+	
 	x_speed = 0;
 	y_speed += grav;
 
@@ -57,6 +63,11 @@ if (global.game_mode == "platformer") {
 } 
 
 if (global.game_mode == "dungeon") {
+	
+	if (!audio_is_playing(Fight_BGM)) {
+		audio_stop_sound(Main_BGM);
+		audio_play_sound(Fight_BGM, 10, true);	
+	}
 	
 	x_speed = 0;
 	y_speed = 0;
@@ -110,6 +121,3 @@ if (global.player_hp <= 0) {
 	global.player_hp = global.player_hp_max;
 }
 
-if (!audio_is_playing(Main_BGM)) {
-	audio_play_sound(Main_BGM, 10, true);	
-}

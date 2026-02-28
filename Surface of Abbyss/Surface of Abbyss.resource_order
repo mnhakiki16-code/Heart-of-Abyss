@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings":[
-    {"name":"Shop","order":14,"path":"folders/Shop.yy",},
     {"name":"Intro_Cutscene","order":10,"path":"folders/Intro_Cutscene.yy",},
     {"name":"Outro_Cutscene","order":11,"path":"folders/Outro_Cutscene.yy",},
     {"name":"Platform_main","order":5,"path":"folders/Platform_main.yy",},
@@ -9,7 +8,7 @@
     {"name":"Room_Monster_1","order":6,"path":"folders/Room_Monster_1.yy",},
     {"name":"Object","order":2,"path":"folders/Room_Monster_1/Object.yy",},
     {"name":"Sprites","order":1,"path":"folders/Room_Monster_1/Sprites.yy",},
-    {"name":"Sound","order":13,"path":"folders/Sound.yy",},
+    {"name":"sound","order":13,"path":"folders/sound.yy",},
     {"name":"Starting_Page","order":12,"path":"folders/Starting_Page.yy",},
   ],
   "ResourceOrderSettings":[
@@ -35,6 +34,8 @@
     {"name":"Outro_Cutscene","order":9,"path":"rooms/Outro_Cutscene/Outro_Cutscene.yy",},
     {"name":"Room_Monster_1","order":4,"path":"rooms/Room_Monster_1/Room_Monster_1.yy",},
     {"name":"Starting_Page","order":7,"path":"rooms/Starting_Page/Starting_Page.yy",},
+    {"name":"Fight_BGM","order":2,"path":"sounds/Fight_BGM/Fight_BGM.yy",},
+    {"name":"Main_BGM","order":1,"path":"sounds/Main_BGM/Main_BGM.yy",},
     {"name":"S_Border_1_ver_1","order":9,"path":"sprites/S_Border_1_ver_1/S_Border_1_ver_1.yy",},
     {"name":"S_Border_1_ver_2","order":13,"path":"sprites/S_Border_1_ver_2/S_Border_1_ver_2.yy",},
     {"name":"S_Border1_hor_bottom","order":11,"path":"sprites/S_Border1_hor_bottom/S_Border1_hor_bottom.yy",},
