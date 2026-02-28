@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Background","order":3,"path":"folders/Background.yy",},
+    {"name":"Object","order":2,"path":"folders/Object.yy",},
+    {"name":"Sprite","order":1,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"O_Platform_Layer1","order":1,"path":"objects/O_Platform_Layer1/O_Platform_Layer1.yy",},
+    {"name":"O_Player","order":2,"path":"objects/O_Player/O_Player.yy",},
+    {"name":"S_Platform_Layer2","order":1,"path":"sprites/S_Platform_Layer2/S_Platform_Layer2.yy",},
+    {"name":"S_Player","order":2,"path":"sprites/S_Player/S_Player.yy",},
+  ],
+}
