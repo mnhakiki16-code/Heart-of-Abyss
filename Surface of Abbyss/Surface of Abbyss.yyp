@@ -102,6 +102,7 @@
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
     {"id":{"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"Trigger","path":"sprites/Trigger/Trigger.yy",},},
   ],
   "resourceType":"GMProject",

@@ -1,1 +1,1 @@
-video.close();
+video_close();

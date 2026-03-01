@@ -68,6 +68,7 @@
     {"name":"S_Walls1","order":6,"path":"sprites/S_Walls1/S_Walls1.yy",},
     {"name":"sItem_AmethystSword","order":2,"path":"sprites/sItem_AmethystSword/sItem_AmethystSword.yy",},
     {"name":"sItem_GoldenSword","order":1,"path":"sprites/sItem_GoldenSword/sItem_GoldenSword.yy",},
+    {"name":"Sprite31","order":15,"path":"sprites/Sprite31/Sprite31.yy",},
     {"name":"Trigger","order":1,"path":"sprites/Trigger/Trigger.yy",},
   ],
 }
