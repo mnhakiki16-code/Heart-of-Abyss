@@ -1,1 +1,1 @@
-visible = false; // Tidak terlihat di awal
+visible = false; 
