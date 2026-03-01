@@ -1,0 +1,1 @@
+room_goto(Starting_Page); 

@@ -129,10 +129,12 @@
     {"name":"inst_5C869A79","path":"rooms/Room_Main/Room_Main.yy",},
     {"name":"inst_2D466D98","path":"rooms/Room_Main/Room_Main.yy",},
     {"name":"inst_26687B3B","path":"rooms/Room_Main/Room_Main.yy",},
+    {"name":"inst_32053259","path":"rooms/Room_Main/Room_Main.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"instances_main","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v4","%Name":"inst_32053259","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32053259","objectId":{"name":"O_Shop","path":"objects/O_Shop/O_Shop.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_7334B748","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7334B748","objectId":{"name":"O_Platform_Layer1","path":"objects/O_Platform_Layer1/O_Platform_Layer1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":80.0,},
         {"$GMRInstance":"v4","%Name":"inst_321641C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_321641C5","objectId":{"name":"O_Platform_Layer1","path":"objects/O_Platform_Layer1/O_Platform_Layer1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":16.0,"y":80.0,},
         {"$GMRInstance":"v4","%Name":"inst_35F78437","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35F78437","objectId":{"name":"O_Platform_Layer1","path":"objects/O_Platform_Layer1/O_Platform_Layer1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":80.0,},
