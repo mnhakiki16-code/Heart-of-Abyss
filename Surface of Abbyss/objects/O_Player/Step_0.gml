@@ -1,3 +1,5 @@
+//i came back to build and see whether the mistake exist 
+
 var left	= keyboard_check(ord("A")) || keyboard_check(vk_left);
 var right	= keyboard_check(ord("D")) || keyboard_check(vk_right);
 var up		= keyboard_check(ord("W")) || keyboard_check(vk_up);
